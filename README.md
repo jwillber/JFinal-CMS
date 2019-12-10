@@ -21,6 +21,8 @@ MVC:JFinal<br/>
 
 1.  后台地址：http://ip:端口/admin/login 默认账号:admin 密码:123456<br/>
 2.  演示<br/>
+前台：http://www.jrecms.com<br/>
+后台：http://www.jrecms.com/admin/login 账号:admin 密码:123456<br/>
 
 #### 主要功能
 
