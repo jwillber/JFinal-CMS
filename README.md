@@ -4,11 +4,11 @@
 JFinal急速CMS，轻量级CMS，企业建站1-3天搞定，后台admintle，前台模板标签，采用JFinal(MVC)，Ehcache(缓存)，Urlrewrite(伪静态) 架构快速搭建个性化独立网站。轻轻松松做站长。
 
 #### 软件架构
-MVC:JFinal
-缓存:Ehcache
-伪静态:Urlrewrite
-存储:阿里云OSS
-数据库:Mysql
+MVC:JFinal<br/>
+缓存:Ehcache<br/>
+伪静态:Urlrewrite<br/>
+存储:阿里云OSS<br/>
+数据库:Mysql<br/>
 
 
 #### 安装教程
@@ -22,10 +22,8 @@ MVC:JFinal
 1.  xxxx
 2.  xxxx
 3.  演示
-
-  前台:[http://www.jrecms.com](http://www.jrecms.com)
-
- 后台:[http://www.jrecms.com/admin/login](http://www.jrecms.com/admin/login) 账号:admin 密码:123456
+前台:[http://www.jrecms.com](http://www.jrecms.com)<br/>
+后台:[http://www.jrecms.com/admin/login](http://www.jrecms.com/admin/login) 账号:admin 密码:123456<br/>
 
 #### 参与贡献
 
