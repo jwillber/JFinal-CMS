@@ -18,8 +18,8 @@ JFinal急速CMS，轻量级CMS，企业建站1-3天搞定，后台admintle，前
 1.  xxxx
 2.  xxxx
 3.  演示
-前台:[http://www.jrecms.com](http://www.jrecms.com)
-后台:[http://www.jrecms.com/admin/login](http://www.jrecms.com) 账号:admin 密码:123456
+ **前台:[http://www.jrecms.com](http://www.jrecms.com)** 
+ **后台:[http://www.jrecms.com/admin/login](http://www.jrecms.com) 账号:admin 密码:123456** 
 
 #### 参与贡献
 
