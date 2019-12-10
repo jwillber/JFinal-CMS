@@ -4,7 +4,11 @@
 JFinal急速CMS，轻量级CMS，企业建站1-3天搞定，后台admintle，前台模板标签，采用JFinal(MVC)，Ehcache(缓存)，Urlrewrite(伪静态) 架构快速搭建个性化独立网站。轻轻松松做站长。
 
 #### 软件架构
-软件架构说明
+MVC:JFinal
+缓存:Ehcache
+伪静态:Urlrewrite
+存储:阿里云OSS
+数据库:Mysql
 
 
 #### 安装教程
