@@ -22,8 +22,7 @@ MVC:JFinal<br/>
 1.  xxxx
 2.  xxxx
 3.  演示<br/>
-前台:[http://www.jrecms.com](http://www.jrecms.com)<br/>
-后台:[http://www.jrecms.com/admin/login](http://www.jrecms.com/admin/login) 账号:admin 密码:123456<br/>
+
 
 #### 参与贡献
 
