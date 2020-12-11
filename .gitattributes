@@ -1,0 +1,4 @@
+    //*后面的语言就是你Github错识别的语言，后面swift修改成为你想要的显示的语言
+    //我这里的项目有oc的代码 被自动识别成了objective-c，只需要将oc的文件后缀.m修改成swift的后缀.swift就可以了
+
+    *.m linguist-language=java
